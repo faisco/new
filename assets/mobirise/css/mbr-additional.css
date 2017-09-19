@@ -1346,8 +1346,8 @@ pre {
 }
 .cid-qvG6NWzzXE {
   padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+  padding-bottom: 15px;
+  background-color: #cccccc;
 }
 .cid-qvG6NWzzXE .testimonials-container {
   margin: 0 auto;
@@ -1355,9 +1355,6 @@ pre {
 .cid-qvG6NWzzXE .testimonials-container .testimonials-item {
   justify-content: center;
   margin-top: 3rem;
-}
-.cid-qvG6NWzzXE .testimonials-container .testimonials-item .user {
-  background: #ffffff;
 }
 .cid-qvG6NWzzXE .testimonials-container .testimonials-item .user.row {
   margin: 0;
