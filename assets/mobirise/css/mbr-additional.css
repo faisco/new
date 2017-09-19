@@ -1391,6 +1391,12 @@ pre {
 .cid-qvG6NWzzXE .mbr-section-subtitle {
   color: #0f7699;
 }
+.cid-qvG6NWzzXE .user_name {
+  color: #0f7699;
+}
+.cid-qvG6NWzzXE .user_desk {
+  color: #0f7699;
+}
 .cid-qvFvCh4BaY {
   padding-top: 90px;
   padding-bottom: 0px;
@@ -1533,4 +1539,7 @@ pre {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qvFHMP1wAb .copyright > p {
+  color: #c1c1c1;
 }
